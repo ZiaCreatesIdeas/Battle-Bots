@@ -4,13 +4,14 @@
    table of contents
 
 
-Basics
-==========
+Battle Bots
+===========
 
 .. toctree::
    :maxdepth: 2
 
    specifications.md
+   upsets.md
    learn_myst.md
    resources.md
    installation.rst

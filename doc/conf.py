@@ -61,8 +61,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'USD STUDY'
-copyright = '2023, USD Study Group.'
+project = 'Battle Bots'
+copyright = ': Rights to Video Content Belongs to Battle Bots.'
 author = 'Zia'
 
 # The version info for the project you're documenting, acts as replacement for
